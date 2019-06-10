@@ -14,7 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
        
-        
+        let a = 10
+        let b = 20
+        let c = a+b
+        print(c)
         
      
     }
