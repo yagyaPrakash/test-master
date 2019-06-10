@@ -15,10 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
        
         
-      print("work")
-         print("work")
-        print("work")
-        print("work")
+     
     }
 
 
